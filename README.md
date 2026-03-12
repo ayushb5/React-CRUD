@@ -1,4 +1,4 @@
-React CRUD Application
+<b>React CRUD Application</b>
 
 A simple CRUD (Create, Read, Update, Delete) web application built using React, Axios, and JSON Server.
 
@@ -94,11 +94,11 @@ https://firebase.google.com
 
 Installation
 
-1. Clone the repository
+1. Clone the repository:
    git clone https://github.com/ayushb5/React-CRUD.git
-2. Navigate to the project folder
+2. Navigate to the project folder:
    cd React-CRUD
-3. Install dependencies
+3. Install dependencies:
    npm install
 
 This installs all required packages including:
